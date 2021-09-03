@@ -24,7 +24,7 @@ print("Hello, world!")
 Save the file and open the git bash window again and run
 
 ```
-lua hello.lua
+lua.exe hello.lua
 ```
 
 You should see

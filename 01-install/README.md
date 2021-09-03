@@ -2,7 +2,7 @@
 
 Download and install Lua
 
-> https://sourceforge.net/projects/luabinaries/files/5.4.2/Tools%20Executables/lua-5.4.2_Win64_bin.zip/download
+> https://github.com/rjpcomputing/luaforwindows/releases/download/v5.1.5-52/LuaForWindows_v5.1.5-52.exe
 
 Download and install Git Bash, make sure you install the Git Terminal or Git Shell
 

@@ -4,7 +4,7 @@ Open Git Shell and open the projects folder
 
 ![git-bash](../imgs/gitbash.jpg)
 
-Create a new project folder, in vscode create a new folder on the left there will be a little folder with a plus and name the new folder `03-FirstProgram`
+Create a new project folder, in vscode create a new folder on the left there will be a little folder with a plus and name the new folder `03-reading-input`
 
 Create a file in this folder named `input.lua`.
 

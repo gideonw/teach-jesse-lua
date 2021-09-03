@@ -13,7 +13,7 @@ cd learn-lua
 code .
 ```
 
-In vscode create a new folder on the left there will be a little folder with a plus and name the new folder `02-FirstProgram`
+In vscode create a new folder on the left there will be a little folder with a plus and name the new folder `02-first-program`
 
 Create a file in this folder named `hello.lua` and add the following:
 

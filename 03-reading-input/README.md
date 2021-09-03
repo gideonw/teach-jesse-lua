@@ -71,4 +71,4 @@ jesse
 Hello   jesse
 ```
 
-Find the full file here: https://github.com/gideonw/teach-jesse-lua/blob/gh-pages/03-reading-input/input.lua
+Find the full file here: [input.lua](https://github.com/gideonw/teach-jesse-lua/blob/gh-pages/03-reading-input/input.lua)

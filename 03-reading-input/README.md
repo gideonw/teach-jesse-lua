@@ -70,3 +70,5 @@ Give me a name:
 jesse
 Hello   jesse
 ```
+
+Find the full file here: https://github.com/gideonw/teach-jesse-lua/blob/gh-pages/03-reading-input/input.lua

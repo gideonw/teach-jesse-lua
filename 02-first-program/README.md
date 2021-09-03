@@ -32,3 +32,5 @@ You should see
 ```
 Hello, world!
 ```
+
+Find the full file here: https://github.com/gideonw/teach-jesse-lua/blob/gh-pages/02-first-program/hello.lua
